@@ -1,5 +1,11 @@
 # vercel
 
+## 32.5.0
+
+### Minor Changes
+
+- Indicates whether @vercel/speed-insights or @vercel/analytics are used ([#10623](https://github.com/vercel/vercel/pull/10623))
+
 ## 32.4.1
 
 ### Patch Changes
